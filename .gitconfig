@@ -1,0 +1,12 @@
+[user]
+	name =
+	email =
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	interactive = auto
+	ui = true
+	pager = true
+[push]
+	autoSetupRemote = true
