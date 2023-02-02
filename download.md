@@ -8,7 +8,7 @@ mpv nomacs firefox thunderbird torbrowser-launcher
 docker docker-compose code
 
 ## plasma
-pipewire-pulse plasma konsole plasma-wayland-session ffmpegthumbs kdegraphics-thumbnailers
+pipewire-pulse plasma konsole plasma-wayland-session ffmpegthumbs kdegraphics-thumbnailers qt5-imageformats
 
 ## zsh
 zsh zsh-syntax-highlighting zsh-autosuggestions exa starship
